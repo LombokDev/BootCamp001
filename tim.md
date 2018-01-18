@@ -3,7 +3,7 @@
  |----------------------------|------------------|
  | Lalu Erfandi Maula Yusnu   | Penanggung Jawab |
  |                            | Ketua            |
- |                            | Kameramen 1      |
- |                            | Kameramen 2      |
+ |                            | Videographer     |
+ |                            | Fotographer      |
  |                            | Designer         |
  |                            | Acara            |
