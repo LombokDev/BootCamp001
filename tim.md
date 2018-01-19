@@ -6,4 +6,4 @@
  |                            | Videographer     |
  |                            | Fotographer      |
  |                            | Designer         |
- |                            | Acara            |
+ | Darmawan Zulkifli          | Acara            |
