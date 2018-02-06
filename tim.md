@@ -6,5 +6,5 @@
  |                            | Videographer           |
  |                            | Fotographer            |
  |                            | Videographer Streaming |
- |                            | Designer               |
+ | Ahmad Muhar Dian Lasmita   | Designer               |
  | Darmawan Zulkifli          | Acara                  |
